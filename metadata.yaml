@@ -1,0 +1,42 @@
+_repo: A-Diary-from-Dixie-As-written-by-Mary-Boykin-Chesnut-wife-of-James-Chesnut-Jr-United-States-S__60908
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesnut, Mary Boykin
+    alias: Chesnut, Mary Boykin Miller
+    birthdate: 1823
+    deathdate: 1886
+    gutenberg_agent_id: '51181'
+    url: http://www.gutenberg.org/2009/agents/51181
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Boykin_Chesnut
+  editors:
+  - agent_name: Avary, Myrta Lockett
+    birthdate: 1857
+    deathdate: 1946
+    gutenberg_agent_id: '41328'
+    url: http://www.gutenberg.org/2009/agents/41328
+    wikipedia: https://en.wikipedia.org/wiki/Myrta_Lockett_Avary
+  - agent_name: Martin, Isabella D.
+    gutenberg_agent_id: '51182'
+    url: http://www.gutenberg.org/2009/agents/51182
+description: ''
+gutenberg_issued: '2019-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Chesnut, Mary Boykin, 1823-1886 -- Diaries'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'Confederate States of America -- History -- Sources'
+- !lcsh 'Southern States -- Biography'
+- GITenberg
+title: "A Diary from Dixie\r\nAs written by Mary Boykin Chesnut, wife of James Chesnut,\
+  \ Jr., United States Senator from South Carolina, 1859-1861, and afterward an Aide\
+  \ to Jefferson Davis and a Brigadier-General in the Confederate Army"
+url: http://www.gutenberg.org/ebooks/60908
